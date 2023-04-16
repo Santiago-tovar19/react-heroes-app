@@ -1,5 +1,3 @@
-(yarn add react-router-dom@6) para instalar react router
+# HeroesApp hecha con React
 
-(yarn add query-string)
-
-(yarn build) para crear la carpeta de produccion
+Pequeña spa hecha con react usando vite y react router
