@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(230, 230, 230);
+}
+
+.titulo4 {
+  font-size: 2.5rem;
+  margin-top: 15px;
+  text-align: center;
+  letter-spacing: 0.1rem;
+  font-weight: 400;
+}
+
+.img4 {
+  height: 500px;
+}
+
+.top4 {
+  margin-top: 20px;
+}
